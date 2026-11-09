@@ -1,0 +1,12 @@
+.local/
+work/
+bin/
+Config/*.local.ini
+*.vbw
+*.oca
+*.log
+*.tmp
+*.exe
+*.bak
+*.mdf
+*.ldf
